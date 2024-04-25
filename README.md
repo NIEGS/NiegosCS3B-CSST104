@@ -1,5 +1,7 @@
 # NiegosCS3B-CSST104
 
+![](/Images/NIEGOS1x1.jpg)
+
 Welcome to my GitHub repository! I am Baron Denver D. Niegos and this is the compilation of my recent activities in Advance Machine Learning CSST104. This repository serves as a comprehensive resource for understanding and implementing fundamental concepts in data analysis and predictive modeling. From basic exploratory data analysis techniques to advanced time series forecasting methods, each topic is explored in detail with practical examples and code implementations.
 
 Table of Contents:
